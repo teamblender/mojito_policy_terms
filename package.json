@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://victorlee917.github.io/mojito_terms",
+  "homepage": "http://teamblender.github.io/mojito_policy_terms",
   "eslintConfig": {
     "extends": [
       "react-app",
