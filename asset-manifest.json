@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/mojito_policy_terms/static/js/main.a06e06ac.chunk.js",
-    "main.js.map": "/mojito_policy_terms/static/js/main.a06e06ac.chunk.js.map",
+    "main.js": "/mojito_policy_terms/static/js/main.18b7af6c.chunk.js",
+    "main.js.map": "/mojito_policy_terms/static/js/main.18b7af6c.chunk.js.map",
     "runtime-main.js": "/mojito_policy_terms/static/js/runtime-main.4220a596.js",
     "runtime-main.js.map": "/mojito_policy_terms/static/js/runtime-main.4220a596.js.map",
-    "static/js/2.0257252c.chunk.js": "/mojito_policy_terms/static/js/2.0257252c.chunk.js",
-    "static/js/2.0257252c.chunk.js.map": "/mojito_policy_terms/static/js/2.0257252c.chunk.js.map",
+    "static/js/2.63cbd5be.chunk.js": "/mojito_policy_terms/static/js/2.63cbd5be.chunk.js",
+    "static/js/2.63cbd5be.chunk.js.map": "/mojito_policy_terms/static/js/2.63cbd5be.chunk.js.map",
     "index.html": "/mojito_policy_terms/index.html",
-    "static/js/2.0257252c.chunk.js.LICENSE.txt": "/mojito_policy_terms/static/js/2.0257252c.chunk.js.LICENSE.txt",
+    "static/js/2.63cbd5be.chunk.js.LICENSE.txt": "/mojito_policy_terms/static/js/2.63cbd5be.chunk.js.LICENSE.txt",
     "static/media/logo.a0181f77.png": "/mojito_policy_terms/static/media/logo.a0181f77.png",
     "static/media/mojito.6bcd6c20.png": "/mojito_policy_terms/static/media/mojito.6bcd6c20.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4220a596.js",
-    "static/js/2.0257252c.chunk.js",
-    "static/js/main.a06e06ac.chunk.js"
+    "static/js/2.63cbd5be.chunk.js",
+    "static/js/main.18b7af6c.chunk.js"
   ]
 }
